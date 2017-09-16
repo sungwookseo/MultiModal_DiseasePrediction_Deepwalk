@@ -1,4 +1,4 @@
-# MultiModal_DiseasePrediction_Deepwalk
+# Multimodal Disease Prediction(Using Deepwalk!)
 
 ## 0. Libraries & Licenses
 * Multimodal Disease Prediction uses following libraries, and its licences
