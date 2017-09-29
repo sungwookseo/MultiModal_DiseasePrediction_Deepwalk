@@ -1,4 +1,4 @@
-# Multimodal Disease Prediction(Using Deepwalk!)
+# Survival Recurrent Neural Network
 
 ## 0. Libraries & Licenses
 * Multimodal Disease Prediction uses following libraries, and its licences
